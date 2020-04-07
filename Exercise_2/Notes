@@ -1,0 +1,2 @@
+Both ex2 and ex2_reg uses the same plotDecisionBoundary function, so we see a common legend for data plot in both the excercises.
+For excercise 2 the Legends should be Y=0 and Y=1 instead of admitted and not addmitted
